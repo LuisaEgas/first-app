@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.myapp.UploadFileTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-22T03:33:40" hostname="BOG-D72YDB3" time="11.929">
+  <properties/>
+  <testcase name="uploadFile1()" classname="com.test.myapp.UploadFileTest" time="2.885"/>
+  <testcase name="uploadFile2()" classname="com.test.myapp.UploadFileTest" time="3.813"/>
+  <testcase name="uploadFile3()" classname="com.test.myapp.UploadFileTest" time="5.219"/>
+  <testcase name="uploadFile4()" classname="com.test.myapp.UploadFileTest" time="0.006"/>
+  <system-out><![CDATA[C:\Users\lbolanos\Documents\Upload\file1.csv: Archivo cargado a S3
+C:\Users\lbolanos\Documents\Upload\file2.csv: Archivo cargado a S3
+C:\Users\lbolanos\Documents\Upload\file3.csv: Archivo cargado a S3
+C:\Users\lbolanos\Documents\Upload\file4.csv: El archivo no existe.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
